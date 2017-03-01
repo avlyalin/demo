@@ -1,0 +1,20 @@
+#content {
+  margin-top: 50px;
+}
+.post-title {
+  min-height: 50px;
+  font-size: 24px;
+  font-style: italic;
+  margin-top: 24px;
+  color: #8E8E8E;
+}
+.post-meta {
+  text-align: right;
+  color: #8E8E8E;
+}
+.post-text {
+  border: 1px solid #d0d0d0;
+  border-radius: 4px;
+  margin-top: 6px;
+  min-height: 50px;
+}
